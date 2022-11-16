@@ -6,7 +6,7 @@ myFileName = date+'.txt'
 
 #print(myFileName)
 
-file = open('./files/'+myFileName, 'w')
+file = open('/home/anindya/Git/dummy/files/'+myFileName, 'w')
 
 file.write(myFileName)
 
