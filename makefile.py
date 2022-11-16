@@ -2,7 +2,7 @@ from datetime import datetime
 
 date = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
 
-myFileName = date+'.txt'
+myFileName = date+'.go'
 
 #print(myFileName)
 
